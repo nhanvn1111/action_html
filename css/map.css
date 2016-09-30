@@ -1,0 +1,35 @@
+#map-canvas {
+height: 392px;
+margin: 0px;
+padding: 0px
+}
+
+/*Contact Wrap*/
+.contact-wrap{font-size: 14px;font-family: Arial;margin-bottom: 68px;float: left;}
+.contact-wrap .row {
+margin-left: -15px !important;
+margin-right: -15px !important;
+}	
+.contact-wrap .col-sm-8{
+padding-left: 15px !important;
+padding-right: 15px !important;
+}
+.contact-wrap .col-sm-4{
+padding-left: 15px !important;
+padding-right: 15px !important;
+}
+.contact-wrap h2{border-bottom:1px solid #ddd;margin-bottom: 25px;padding-bottom: 10px;}
+.contact-wrap .form-horizontal .control-label {
+text-align: left;
+}
+.contact-wrap .contact-info{margin-top: 68px;
+float: left;
+width: 100%;
+}
+.contact-wrap .contact-info ul li {
+	margin-bottom: 10px;
+	width:100%;
+	float:left;
+}
+.contact-wrap .contact-info ul li span{float:left;font-size: 18px;width: 30px;float: left;}
+.contact-wrap .contact-info ul li a{float:left;padding: 1px 0px;color: #333333;}
